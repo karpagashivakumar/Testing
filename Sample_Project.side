@@ -1,0 +1,227 @@
+{
+  "id": "6b72544a-6f36-4085-a31b-35de50583165",
+  "version": "2.0",
+  "name": "Sample_Project",
+  "url": "https://www.facebook.com/campaign/landing.php?&campaign_id=15316858002&extra_1=s%7Cc%7C563139538292%7Cb%7Cfacebook%20%27%7C&placement=&creative=563139538292&keyword=facebook%20%27&partner_id=googlesem&extra_2=campaignid%3D15316858002%26adgroupid%3D130780223675%26matchtype%3Db%26network%3Dg%26source%3Dnotmobile%26search_or_content%3Ds%26device%3Dc%26devicemodel%3D%26adposition%3D%26target%3D%26targetid%3Dkwd-327195741349%26loc_physical_ms%3D1007809%26loc_interest_ms%3D%26feeditemid%3D%26param1%3D%26param2%3D&gclid=Cj0KCQjw98ujBhCgARIsAD7QeAhlpLAaCMx-C-kL7TL15XoGd4V0PYrrltvg3_AMUzjJgaj8tCmuGVMaAs0UEALw_wcB",
+  "tests": [{
+    "id": "770dc906-28a4-4254-b46f-ad62decce443",
+    "name": "Facebook",
+    "commands": [{
+      "id": "a335549e-a32e-48a7-8b72-7700306044d4",
+      "comment": "",
+      "command": "open",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "bafabf70-762a-4020-bc9f-73dcc7034558",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "b2e6c73b-4630-48cf-b8d7-8b22d70a162a",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "3b7eac16-6fee-4f66-8377-830593ee2946",
+      "comment": "",
+      "command": "click",
+      "target": "id=u_0_b_66",
+      "targets": [
+        ["id=u_0_b_66", "id"],
+        ["name=firstname", "name"],
+        ["css=#u_0_b_66", "css:finder"],
+        ["xpath=//input[@id='u_0_b_66']", "xpath:attributes"],
+        ["xpath=//div[@id='u_0_a_sC']/div/input", "xpath:idRelative"],
+        ["xpath=//div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "0c37f447-f283-47d2-b8d8-c45fd8efc3ca",
+      "comment": "",
+      "command": "type",
+      "target": "id=u_0_b_66",
+      "targets": [
+        ["id=u_0_b_66", "id"],
+        ["name=firstname", "name"],
+        ["css=#u_0_b_66", "css:finder"],
+        ["xpath=//input[@id='u_0_b_66']", "xpath:attributes"],
+        ["xpath=//div[@id='u_0_a_sC']/div/input", "xpath:idRelative"],
+        ["xpath=//div/input", "xpath:position"]
+      ],
+      "value": "KARPAGASHIVAKUMAR"
+    }, {
+      "id": "44f41bb1-c8f6-460d-81cb-8cd82d28c86c",
+      "comment": "",
+      "command": "click",
+      "target": "id=u_0_g_il",
+      "targets": [
+        ["id=u_0_g_il", "id"],
+        ["name=reg_email__", "name"],
+        ["css=#u_0_g_il", "css:finder"],
+        ["xpath=//input[@id='u_0_g_il']", "xpath:attributes"],
+        ["xpath=//div[@id='u_0_f_NG']/div/input", "xpath:idRelative"],
+        ["xpath=//form/div/div[2]/div/div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "64465eaf-c80b-47d4-aaf5-ff5c412b9d16",
+      "comment": "",
+      "command": "type",
+      "target": "id=u_0_g_il",
+      "targets": [
+        ["id=u_0_g_il", "id"],
+        ["name=reg_email__", "name"],
+        ["css=#u_0_g_il", "css:finder"],
+        ["xpath=//input[@id='u_0_g_il']", "xpath:attributes"],
+        ["xpath=//div[@id='u_0_f_NG']/div/input", "xpath:idRelative"],
+        ["xpath=//form/div/div[2]/div/div/input", "xpath:position"]
+      ],
+      "value": "wekfhweiuf"
+    }, {
+      "id": "d8867e3d-a667-41f1-9a68-642442285038",
+      "comment": "",
+      "command": "click",
+      "target": "id=password_step_input",
+      "targets": [
+        ["id=password_step_input", "id"],
+        ["name=reg_passwd__", "name"],
+        ["css=#password_step_input", "css:finder"],
+        ["xpath=//input[@id='password_step_input']", "xpath:attributes"],
+        ["xpath=//div[@id='u_0_k_TL']/div/input", "xpath:idRelative"],
+        ["xpath=//div[4]/div/div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "cc625022-e0aa-46f4-9d8c-8dcabedfea3c",
+      "comment": "",
+      "command": "type",
+      "target": "id=password_step_input",
+      "targets": [
+        ["id=password_step_input", "id"],
+        ["name=reg_passwd__", "name"],
+        ["css=#password_step_input", "css:finder"],
+        ["xpath=//input[@id='password_step_input']", "xpath:attributes"],
+        ["xpath=//div[@id='u_0_k_TL']/div/input", "xpath:idRelative"],
+        ["xpath=//div[4]/div/div/input", "xpath:position"]
+      ],
+      "value": "lduhsdiu"
+    }, {
+      "id": "86ab3f95-6b21-4645-bfe3-71d975d7a7f5",
+      "comment": "",
+      "command": "click",
+      "target": "id=day",
+      "targets": [
+        ["id=day", "id"],
+        ["name=birthday_day", "name"],
+        ["css=#day", "css:finder"],
+        ["xpath=//select[@id='day']", "xpath:attributes"],
+        ["xpath=//span[@id='u_0_l_9/']/span/select", "xpath:idRelative"],
+        ["xpath=//select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "2ac979c0-883a-4bfa-87ce-cce7d05abad4",
+      "comment": "",
+      "command": "click",
+      "target": "id=month",
+      "targets": [
+        ["id=month", "id"],
+        ["name=birthday_month", "name"],
+        ["css=#month", "css:finder"],
+        ["xpath=//select[@id='month']", "xpath:attributes"],
+        ["xpath=//span[@id='u_0_l_9/']/span/select[2]", "xpath:idRelative"],
+        ["xpath=//select[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "2727e2fa-a496-4716-a789-25d221ba607e",
+      "comment": "",
+      "command": "select",
+      "target": "id=month",
+      "targets": [],
+      "value": "label=Apr"
+    }, {
+      "id": "08ba6eda-ee8b-4c59-a768-62ee99877386",
+      "comment": "",
+      "command": "click",
+      "target": "css=.\\_5k_2:nth-child(2) > .\\_58mt",
+      "targets": [
+        ["css=.\\_5k_2:nth-child(2) > .\\_58mt", "css:finder"],
+        ["xpath=//span[@id='u_0_o_BI']/span[2]/label", "xpath:idRelative"],
+        ["xpath=//span[2]/label", "xpath:position"],
+        ["xpath=//label[contains(.,'Male')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "2071550f-24c4-437c-9cdd-c70477fa1d7f",
+      "comment": "",
+      "command": "click",
+      "target": "id=year",
+      "targets": [
+        ["id=year", "id"],
+        ["name=birthday_year", "name"],
+        ["css=#year", "css:finder"],
+        ["xpath=//select[@id='year']", "xpath:attributes"],
+        ["xpath=//span[@id='u_0_l_9/']/span/select[3]", "xpath:idRelative"],
+        ["xpath=//select[3]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "ab3003ca-6566-43b4-a8b5-bcf4b33e4ca9",
+      "comment": "",
+      "command": "select",
+      "target": "id=year",
+      "targets": [],
+      "value": "label=2005"
+    }, {
+      "id": "6173ca5d-5cb5-4acd-ad69-39c8bf8ed517",
+      "comment": "",
+      "command": "click",
+      "target": "id=day",
+      "targets": [
+        ["id=day", "id"],
+        ["name=birthday_day", "name"],
+        ["css=#day", "css:finder"],
+        ["xpath=//select[@id='day']", "xpath:attributes"],
+        ["xpath=//span[@id='u_0_l_9/']/span/select", "xpath:idRelative"],
+        ["xpath=//select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "55caaa0e-86d3-4c70-b18b-ff2d9d2d81e2",
+      "comment": "",
+      "command": "select",
+      "target": "id=day",
+      "targets": [],
+      "value": "label=26"
+    }, {
+      "id": "61c00907-cd87-4723-b133-236809284952",
+      "comment": "",
+      "command": "click",
+      "target": "css=.\\_58mu:nth-child(9) > .\\_58mv",
+      "targets": [
+        ["css=.\\_58mu:nth-child(9) > .\\_58mv", "css:finder"],
+        ["xpath=//div[@id='reg_form_box']/div[9]/p", "xpath:idRelative"],
+        ["xpath=//p", "xpath:position"],
+        ["xpath=//p[contains(.,'People who use our service may have uploaded your contact information to Facebook. Learn more.')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "963b27b5-fb6a-4fc2-b5f1-74ecc18092cb",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["770dc906-28a4-4254-b46f-ad62decce443"]
+  }],
+  "urls": [],
+  "plugins": []
+}
